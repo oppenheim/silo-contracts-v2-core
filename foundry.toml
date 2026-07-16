@@ -1,0 +1,7 @@
+[profile.default]
+libs = [
+    'gitmodules',
+]
+src = 'silo-core/contracts'
+out = 'out'
+evm_version = 'paris'

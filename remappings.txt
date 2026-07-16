@@ -1,0 +1,4 @@
+silo-core/=silo-core/
+
+openzeppelin-contracts-upgradeable/=gitmodules/openzeppelin-contracts-upgradeable/contracts
+openzeppelin-contracts/=gitmodules/openzeppelin-contracts/contracts
